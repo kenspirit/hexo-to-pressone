@@ -29,6 +29,7 @@ After you obtain the Press.one address and private key, you can start the migrat
 3. Set environment variable `PRS_ENV` to `prod` if you want to migrate to Press.one main site.  Else, it's for testing.  In Mac/linux: `export PRS_ENV=prod`;  In Windows: `set PRS_ENV=prod`. 
 4. Execute Command `node index.js "your_hexo_post_file_name.md"` if you just want to migrate a single post.  Execute Command `node index.js "post_a.md" "post_e.md"` if you want to migrate a series of posts.  
 
+Welcome to my [Press.one home page](https://press.one/main/p/b294d95ad0b3d76c0fdd60dcc576a8448b0e3f06) and leave a tip.
 
 ## License
 
